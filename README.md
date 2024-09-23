@@ -10,6 +10,7 @@
 
 
 
+
 ## ⚖️ Disclaimer 
 
 The developer disclaims any responsibility for damages or losses due to improper use of VirtuCam. Users bear all responsibility associated with the app’s use.
